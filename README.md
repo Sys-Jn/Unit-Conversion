@@ -43,7 +43,7 @@ miles-to-km-converter/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/miles-to-km-converter.git
+https://github.com/Sys-Jn/Unit-Conversion.git
 ```
 
 2. Run the program:
